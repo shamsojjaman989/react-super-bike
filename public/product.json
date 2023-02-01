@@ -1,0 +1,110 @@
+[
+
+    {
+        "id": "4930a-43239-b342",
+        "category": "Super-Car",
+        "name": "H2R",
+        "seller": "Rolsroyes",
+        "price": 1800,
+        "stock": 10,
+        "ratings": 5,
+        "ratingsCount": 3725,
+        "img": "https://i.pinimg.com/736x/1a/93/f2/1a93f2073b0ce7d95e4a3781295340cb.jpg",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "10002-a553-g5593",
+        "category": "Super-Car",
+        "name": "Lembergini-gp-9",
+        "seller": "Lembergini",
+        "price": 1390,
+        "stock": 5,
+        "ratings": 4.5,
+        "ratingsCount": 2025,
+        "img": "https://images.unsplash.com/photo-1637476349345-d8f88e11e573?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzN8fHN1cGVyJTIwYmlrZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "9003a-j9332-377s",
+        "category": "Super-Car",
+        "name": "GT-g-3300",
+        "seller": "GT",
+        "price": 1060,
+        "stock": 7,
+        "ratings": 4,
+        "ratingsCount": 1025,
+        "img": "https://images.unsplash.com/photo-1656767112164-f9f59766357d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEwfHxzdXBlciUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "00434-c83892-7732",
+        "category": "Super-Car",
+        "name": "Yahama-R1",
+        "seller": "Mercidis",
+        "price": 1260,
+        "stock": 19,
+        "ratings": 5,
+        "ratingsCount": 4025,
+        "img": "https://images.unsplash.com/photo-1619022477044-f2950e601d98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEzfHxzdXBlciUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+      
+    {
+        "id": "4938s-3832-683s-44",
+        "category": "Super-Car",
+        "name": "BMW-Adva-900",
+        "seller": "Mercidis",
+        "price": 1123,
+        "stock": 3,
+        "ratings": 3,
+        "ratingsCount": 625,
+        "img": "https://images.unsplash.com/photo-1637045602770-c7e1e47161b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJtdyUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "8843-y4742-5539",
+        "category": "Jeepsy",
+        "name": "Hayaly-R1200",
+        "seller": "Mahindro",
+        "price": 893,
+        "stock": 6,
+        "ratings": 4,
+        "ratingsCount": 987,
+        "img": "https://images.unsplash.com/photo-1598808503491-a8ebebc0b55d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGJtdyUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+      
+    {
+        "id": "33747-3335-g3384",
+        "category": "Jeepsy",
+        "name": "Ducati-Panigale-1200",
+        "seller": "GT",
+        "price": 900,
+        "stock": 9,
+        "ratings": 4.5,
+        "ratingsCount": 767,
+        "img": "https://images.unsplash.com/photo-1623756005624-cacdc88f5adf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGR1Y2F0aSUyMGJpa2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "84632-b8836-b335",
+        "category": "Super-Car",
+        "name": "Kayasaki-ZX-10-R",
+        "seller": "Bugatti",
+        "price": 1500,
+        "stock": 3,
+        "ratings": 5,
+        "ratingsCount": 1767,
+        "img": "https://images.unsplash.com/photo-1560319734-fe91ab681d85?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8engxMHJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      }
+      
+]
